@@ -1,0 +1,9 @@
+Package: lh-zero-trust-auditor
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Sameer Tawade <ops@logihertz.com>
+Homepage: https://www.logihertz.com
+Description: lh-zero-trust - NIST SP 800-207 Zero-Trust Confidence Scoring Function
+ Zero-Trust Architecture (NIST SP 800-207) posture auditor verifying service-mesh mutual TLS (mTLS), SPIFFE/SPIRE workload identities, continuous device posture checks, and micro-segmentation policies.
